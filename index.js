@@ -10,7 +10,7 @@ console.log(arr)
 console.log("Hello " + name + " !")
 console.log(`Hello ${name} !`)
 
-console.log(name.endsWith("s"))
+console.log(name.endsWith("S"))
 console.log(name.startsWith("W"))
 console.log(name.replaceAll("W", "w"))
 const arrOfString = name.split(",")
